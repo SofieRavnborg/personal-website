@@ -25,7 +25,3 @@ This project addresses the following learning objectives:
 - Git & GitHub
 
 ---
-
-## Directory Structure
-The project follows the required directory structure:
-
